@@ -3,3 +3,4 @@ pillow
 numpy
 onnxruntime
 pandas
+openpyxl
