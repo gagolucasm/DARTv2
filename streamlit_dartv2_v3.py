@@ -125,7 +125,7 @@ def display_result(result, image):
 
         with cols[0]:  # Left column for image
             st.markdown('<div class="image-container">', unsafe_allow_html=True)
-            st.image(Image.open(image), use_column_width=True)
+            st.image(Image.open(image), use_container_width=True)
             st.markdown('</div>', unsafe_allow_html=True)
             st.caption(result["File Name"])
 
