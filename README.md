@@ -15,7 +15,7 @@
 
 - **Title**: Self-consistent deep approximation of retinal traits for robust and highly efficient vascular phenotyping of retinal colour fundus images
 - **Authors**: Lucas Gago, Beatriz Remeseiro, Laura Igual, Amos Storkey, Miguel O. Bernabeu, Justin Engelmann
-- **Status**: Pending publication (available on [OpenReview](https://openreview.net/forum?id=HkVqbtphwf))
+- **Status**: Published (available on [https://link.springer.com/chapter/10.1007/978-3-031-79103-1_22](https://link.springer.com/chapter/10.1007/978-3-031-79103-1_22))
 
 ### Abstract
 Retinal colour fundus images offer a fast, low-cost, non-invasive way of imaging the retinal vasculature, which provides critical insights into both ocular and systemic health. Traditional approaches to retinal vascular phenotyping rely on handcrafted, multi-step pipelines that are computationally intensive and sensitive to image quality issues. DARTv2 overcomes these limitations by leveraging a self-consistent deep learning model that is fast, robust, and repeatable. It enhances the original DART by adding **Vessel Density (VD)** as a new trait, incorporating additional augmentations, and improving repeatability through a self-consistency loss. DARTv2 demonstrates high agreement with the AutoMorph pipeline (Pearson 0.9392 for FD and 0.9612 for VD), is more robust than both AutoMorph and the original DART, and achieves a significant speed-up in processing.
