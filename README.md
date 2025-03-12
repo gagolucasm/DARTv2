@@ -56,16 +56,10 @@ The model weights are included in the repository for local inference.
 
 ## Citation
 
-If you use DARTv2 in your research, please cite the pending publication:
+If you use DARTv2 in your research, please cite our publication:
 
-@inproceedings{
-gago2024selfconsistent,
-title={Self-consistent deep approximation of retinal traits for robust and highly efficient vascular phenotyping of retinal colour fundus images},
-author={Lucas Gago and Beatriz Remeseiro and Laura Igual and Amos Storkey and Miguel O. Bernabeu and Justin Engelmann},
-booktitle={MICCAI Student Board EMERGE Workshop: Empowering MEdical image computing {\&} Research through early-career Expertise},
-year={2024},
-url={https://openreview.net/forum?id=HkVqbtphwf}
-}
+Gago, L., Remeseiro, B., Igual, L., Storkey, A., Bernabeu, M.O., Engelmann, J. (2025). Self-consistent Deep Approximation of Retinal Traits for Robust and Highly Efficient Vascular Phenotyping of Retinal Colour Fundus Images. In: Anazodo, U., et al. Medical Information Computing. MImA EMERGE 2024 2024. Communications in Computer and Information Science, vol 2240. Springer, Cham. https://doi.org/10.1007/978-3-031-79103-1_22
+
 
 ## Acknowledgments
 
