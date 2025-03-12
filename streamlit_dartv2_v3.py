@@ -271,7 +271,7 @@ def main():
         st.write("### Citation")
         st.write("""
         If you use this tool in your research, please cite our work as follows:
-        Pending publication. Please check back for updates on the final citation format.
+        Gago, L., Remeseiro, B., Igual, L., Storkey, A., Bernabeu, M.O., Engelmann, J. (2025). Self-consistent Deep Approximation of Retinal Traits for Robust and Highly Efficient Vascular Phenotyping of Retinal Colour Fundus Images. In: Anazodo, U., et al. Medical Information Computing. MImA EMERGE 2024 2024. Communications in Computer and Information Science, vol 2240. Springer, Cham. https://doi.org/10.1007/978-3-031-79103-1_22
         """)
 
     else:
